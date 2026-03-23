@@ -1,0 +1,40 @@
+total patients: 800
+
+Genotype wise count:
+  HbSS: 688
+  HbSE: 53
+  HbSA: 34
+  HbS-thal: 25
+
+Awareness (%):
+  Never heard: 55.6%
+  Heard but don't know inherited: 33.8%
+  Knows inherited: 10.6%
+
+Overall screened: 47.0%
+
+District wise screening %:
+  Dibrugarh: 50.3%
+  Golaghat: 35.3%
+  Jorhat: 51.1%
+  Kalahandi: 50.8%
+  Koraput: 40.9%
+  Mayurbhanj: 40.6%
+  Nabarangpur: 42.3%
+  Sivasagar: 45.6%
+  Sundargarh: 50.5%
+  Tinsukia: 51.2%
+
+Hydroxyurea among HbSS: 49.9%
+
+Lost to follow-up: 16.6%
+
+Chi-square (gender vs awareness):
+  chi2 = 0.755, p = 0.3849, df = 1
+
+Independent t-test (age: HbSS vs HbSA):
+  mean HbSS = 18.0, mean HbSA = 12.9
+  t = 2.306, p = 0.0214
+
+Chi-square (black magic belief vs screened):
+  chi2 = 0.006, p = 0.9362, df = 1

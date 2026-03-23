@@ -1,0 +1,801 @@
+patient_id,age,gender,district,genotype,hb_g_dl,hbs_percent,fever,bone_pain,awareness,belief_black_magic,screened,hydroxyurea,transfusions_per_year,follow_up_status
+SCD0001,7,F,Dibrugarh,HbSS,8.3,85.5,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0002,9,M,Golaghat,HbS-thal,11.3,55.2,Yes,Yes,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0003,0,F,Sivasagar,HbSS,7.9,85.5,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0004,9,M,Dibrugarh,HbSS,8.0,85.7,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0005,8,F,Sundargarh,HbSS,8.3,85.0,Yes,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0006,5,F,Sivasagar,HbSS,8.1,85.4,No,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0007,2,F,Dibrugarh,HbSS,8.4,86.5,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0008,7,F,Sundargarh,HbSS,8.2,86.6,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0009,8,M,Sundargarh,HbSS,8.2,86.1,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0010,5,F,Jorhat,HbSS,8.7,87.7,No,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0011,6,F,Tinsukia,HbSS,8.0,87.2,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0012,0,F,Sivasagar,HbSA,11.4,39.5,No,Yes,Heard but don't know inherited,No,No,No,Rarely,Lost to follow-up
+SCD0013,4,M,Sivasagar,HbSS,8.5,87.9,No,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0014,4,F,Dibrugarh,HbSS,8.1,85.5,No,Yes,Knows inherited,Yes,Yes,No,5-8/yr,Active
+SCD0015,9,F,Dibrugarh,HbSS,8.5,86.7,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0016,3,F,Dibrugarh,HbSS,8.4,86.7,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0017,5,M,Kalahandi,HbSS,8.4,85.1,No,Yes,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0018,6,F,Dibrugarh,HbSS,8.5,87.6,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0019,8,M,Tinsukia,HbSS,8.3,86.4,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0020,0,F,Dibrugarh,HbSS,8.0,86.9,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0021,5,M,Jorhat,HbSS,8.4,86.3,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0022,6,F,Dibrugarh,HbSS,8.6,86.1,No,Yes,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0023,2,F,Dibrugarh,HbSS,8.4,85.4,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0024,7,M,Tinsukia,HbSS,8.3,86.2,No,Yes,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0025,4,F,Dibrugarh,HbSS,8.4,86.0,Yes,Yes,Knows inherited,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0026,8,M,Tinsukia,HbSS,8.3,87.2,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0027,4,F,Mayurbhanj,HbSS,8.2,84.8,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0028,8,F,Dibrugarh,HbSS,8.7,87.8,Yes,Yes,Knows inherited,Yes,No,Yes,5-8/yr,Lost to follow-up
+SCD0029,9,F,Sundargarh,HbSS,8.0,87.1,Yes,Yes,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0030,3,F,Nabarangpur,HbSS,8.2,86.7,No,No,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0031,8,F,Dibrugarh,HbSS,8.4,86.2,No,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0032,4,M,Tinsukia,HbSS,8.2,85.7,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0033,9,M,Golaghat,HbSS,8.1,85.6,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0034,8,F,Dibrugarh,HbS-thal,9.9,46.4,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0035,2,F,Tinsukia,HbSA,11.4,41.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0036,3,F,Dibrugarh,HbSS,8.2,86.6,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0037,8,F,Tinsukia,HbSS,8.4,86.9,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0038,9,M,Sundargarh,HbSS,8.3,87.1,No,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0039,5,F,Mayurbhanj,HbSS,8.4,85.2,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Lost to follow-up
+SCD0040,1,M,Kalahandi,HbSS,8.5,87.3,Yes,No,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0041,6,F,Dibrugarh,HbSS,8.2,86.4,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0042,1,M,Sundargarh,HbSS,8.5,86.2,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0043,1,M,Koraput,HbSS,8.5,88.8,No,Yes,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0044,0,M,Mayurbhanj,HbSE,8.8,43.1,No,Yes,Never heard,No,No,No,Rarely,Active
+SCD0045,2,M,Golaghat,HbSS,8.4,87.1,No,No,Never heard,No,No,No,0-4/yr,Active
+SCD0046,5,F,Kalahandi,HbSS,8.3,87.9,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0047,7,M,Dibrugarh,HbSS,8.0,87.1,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0048,8,M,Koraput,HbSS,8.2,88.1,Yes,No,Knows inherited,No,Yes,Yes,0-4/yr,Lost to follow-up
+SCD0049,6,M,Dibrugarh,HbSS,8.7,85.6,No,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0050,3,M,Mayurbhanj,HbSS,8.2,87.3,No,Yes,Knows inherited,Yes,Yes,No,5-8/yr,Active
+SCD0051,5,M,Koraput,HbSA,11.2,40.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0052,4,M,Dibrugarh,HbSS,8.3,84.5,No,No,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0053,7,F,Sundargarh,HbS-thal,10.0,46.6,No,No,Heard but don't know inherited,Yes,Yes,No,Rarely,Lost to follow-up
+SCD0054,0,F,Sundargarh,HbSE,9.3,57.2,Yes,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0055,0,F,Koraput,HbSS,8.1,87.2,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0056,5,M,Sundargarh,HbSE,9.6,48.6,No,Yes,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0057,9,M,Sundargarh,HbSS,8.5,86.7,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0058,1,F,Kalahandi,HbSS,8.4,87.4,Yes,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0059,4,M,Sivasagar,HbSS,8.3,85.8,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0060,0,M,Dibrugarh,HbSS,8.1,85.6,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0061,6,M,Dibrugarh,HbSS,8.9,87.6,Yes,No,Knows inherited,Yes,No,No,5-8/yr,Active
+SCD0062,0,M,Mayurbhanj,HbSS,8.0,85.1,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0063,3,M,Jorhat,HbSS,8.4,86.9,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0064,8,M,Nabarangpur,HbSS,8.4,86.1,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0065,0,F,Sundargarh,HbSS,8.3,86.7,Yes,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0066,3,M,Dibrugarh,HbSS,8.3,84.2,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0067,5,F,Sundargarh,HbSS,8.3,85.5,Yes,No,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0068,5,F,Kalahandi,HbSS,8.4,89.4,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0069,7,F,Dibrugarh,HbSS,8.4,86.1,No,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Lost to follow-up
+SCD0070,0,F,Sivasagar,HbSA,11.4,40.7,No,No,Never heard,No,No,No,Rarely,Active
+SCD0071,6,F,Dibrugarh,HbSS,8.4,87.0,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0072,0,M,Tinsukia,HbSS,8.8,85.3,No,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0073,6,M,Golaghat,HbSS,8.4,85.5,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0074,2,M,Koraput,HbSS,8.4,85.5,No,Yes,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0075,7,F,Mayurbhanj,HbSS,8.2,86.1,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0076,2,F,Nabarangpur,HbSS,8.5,87.3,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0077,0,M,Nabarangpur,HbSS,8.1,86.5,No,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0078,7,F,Nabarangpur,HbSS,8.2,85.1,No,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0079,2,M,Jorhat,HbSS,8.3,86.1,No,Yes,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Lost to follow-up
+SCD0080,1,F,Tinsukia,HbSS,8.8,86.8,No,Yes,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0081,0,M,Dibrugarh,HbSS,8.0,85.8,No,Yes,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0082,2,M,Kalahandi,HbSS,8.5,88.5,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0083,1,M,Sivasagar,HbSS,8.0,84.5,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0084,1,M,Golaghat,HbSS,8.7,86.8,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0085,5,M,Sivasagar,HbSS,8.1,86.9,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0086,0,M,Sundargarh,HbSS,7.8,86.4,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0087,1,F,Tinsukia,HbSS,8.4,87.3,Yes,Yes,Heard but don't know inherited,No,Yes,No,5-8/yr,Active
+SCD0088,5,M,Sundargarh,HbSS,8.1,86.5,Yes,Yes,Knows inherited,No,No,Yes,5-8/yr,Active
+SCD0089,2,M,Mayurbhanj,HbSE,8.6,51.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0090,3,F,Sundargarh,HbSS,8.1,86.0,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0091,0,F,Dibrugarh,HbSS,8.1,87.1,No,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0092,7,M,Tinsukia,HbSS,8.5,86.2,No,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0093,6,M,Sundargarh,HbSS,8.3,85.0,Yes,Yes,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0094,6,M,Nabarangpur,HbSS,8.3,86.3,No,No,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0095,2,M,Dibrugarh,HbSS,8.9,85.3,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0096,9,F,Kalahandi,HbSS,8.6,87.4,No,Yes,Heard but don't know inherited,Yes,No,No,9-12/yr,Active
+SCD0097,9,M,Koraput,HbSS,8.4,88.2,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0098,2,M,Nabarangpur,HbSS,8.4,86.8,No,No,Never heard,No,No,No,0-4/yr,Active
+SCD0099,1,F,Tinsukia,HbSS,8.3,87.6,No,No,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0100,0,M,Sundargarh,HbSS,8.6,85.8,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0101,6,F,Sundargarh,HbSS,8.0,86.2,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0102,6,M,Kalahandi,HbSS,8.2,86.3,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0103,1,F,Jorhat,HbSS,8.6,85.9,No,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0104,6,M,Tinsukia,HbSS,8.3,86.5,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0105,7,F,Tinsukia,HbSE,11.3,38.8,No,No,Never heard,No,No,No,Rarely,Active
+SCD0106,0,F,Kalahandi,HbSS,8.2,86.6,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0107,8,M,Dibrugarh,HbSS,8.6,85.9,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Lost to follow-up
+SCD0108,6,F,Sundargarh,HbSS,7.9,87.0,No,No,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0109,2,F,Tinsukia,HbSS,8.2,85.2,Yes,Yes,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0110,7,F,Jorhat,HbSS,8.2,86.2,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0111,6,F,Dibrugarh,HbSS,8.2,84.2,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0112,7,F,Sivasagar,HbSS,8.5,87.7,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0113,5,M,Tinsukia,HbSE,11.0,44.3,No,No,Knows inherited,Yes,Yes,No,Rarely,Active
+SCD0114,8,M,Koraput,HbSS,8.3,86.4,Yes,Yes,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0115,4,F,Jorhat,HbSS,8.4,87.1,No,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0116,2,M,Sundargarh,HbSE,8.9,50.4,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0117,2,F,Dibrugarh,HbSS,8.4,87.9,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0118,0,F,Koraput,HbSS,8.5,87.2,Yes,No,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Lost to follow-up
+SCD0119,7,M,Sundargarh,HbSE,10.1,57.1,No,Yes,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0120,1,M,Nabarangpur,HbSS,8.4,85.5,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0121,2,F,Mayurbhanj,HbSS,8.6,87.1,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0122,7,M,Dibrugarh,HbSE,9.3,47.6,Yes,Yes,Never heard,No,No,No,Rarely,Active
+SCD0123,7,F,Dibrugarh,HbSS,8.4,86.9,No,Yes,Knows inherited,Yes,No,Yes,0-4/yr,Active
+SCD0124,3,M,Sundargarh,HbSS,8.4,86.7,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0125,3,F,Koraput,HbSS,8.7,87.5,Yes,Yes,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0126,4,M,Dibrugarh,HbSS,8.4,87.3,No,Yes,Knows inherited,Yes,No,No,0-4/yr,Active
+SCD0127,5,F,Kalahandi,HbSS,8.1,86.8,No,No,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0128,4,M,Tinsukia,HbSS,8.7,86.2,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0129,6,F,Tinsukia,HbSS,8.1,85.7,Yes,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0130,1,M,Sivasagar,HbSS,8.1,85.6,No,No,Never heard,No,No,No,0-4/yr,Active
+SCD0131,6,F,Tinsukia,HbSS,8.2,85.0,Yes,No,Knows inherited,Yes,No,No,9-12/yr,Active
+SCD0132,9,F,Nabarangpur,HbSS,8.3,87.3,No,No,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0133,6,M,Tinsukia,HbSS,8.1,87.9,Yes,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0134,0,M,Mayurbhanj,HbSS,8.4,87.4,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0135,6,M,Kalahandi,HbS-thal,9.0,54.3,Yes,No,Never heard,No,No,No,Rarely,Active
+SCD0136,4,F,Sivasagar,HbSS,8.1,87.3,Yes,Yes,Knows inherited,Yes,No,No,9-12/yr,Lost to follow-up
+SCD0137,2,F,Dibrugarh,HbSS,8.4,87.0,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0138,2,F,Sivasagar,HbSS,8.1,85.5,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0139,3,M,Sivasagar,HbSS,8.4,85.5,Yes,Yes,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0140,1,M,Sivasagar,HbSA,11.4,39.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0141,1,F,Jorhat,HbSA,11.4,39.4,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0142,0,M,Dibrugarh,HbSS,8.4,87.0,Yes,Yes,Knows inherited,Yes,Yes,No,0-4/yr,Active
+SCD0143,4,F,Kalahandi,HbSS,8.2,87.0,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0144,3,M,Dibrugarh,HbSS,8.4,85.9,Yes,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0145,9,F,Nabarangpur,HbSS,8.1,84.4,No,Yes,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0146,1,M,Dibrugarh,HbSS,8.4,84.8,No,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0147,2,M,Tinsukia,HbSS,8.3,86.1,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0148,6,F,Tinsukia,HbSS,8.5,86.1,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0149,6,F,Nabarangpur,HbSS,8.3,87.1,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0150,3,F,Koraput,HbSS,8.4,86.7,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0151,4,M,Dibrugarh,HbSE,10.7,42.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0152,4,M,Koraput,HbSS,8.5,87.0,Yes,No,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0153,5,F,Jorhat,HbSS,8.1,86.2,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0154,8,F,Kalahandi,HbSS,8.3,86.3,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0155,1,M,Koraput,HbSA,11.3,41.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0156,4,M,Sundargarh,HbSS,8.5,85.1,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0157,12,M,Tinsukia,HbSS,8.5,87.7,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0158,13,F,Tinsukia,HbSS,8.4,87.5,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0159,19,M,Kalahandi,HbSS,8.7,87.4,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0160,15,M,Sundargarh,HbSS,8.4,87.4,No,Yes,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0161,17,M,Nabarangpur,HbSS,8.4,86.4,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0162,10,M,Kalahandi,HbSS,8.2,88.0,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0163,19,M,Tinsukia,HbSS,8.1,87.9,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0164,17,M,Dibrugarh,HbSS,8.4,85.0,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0165,16,M,Kalahandi,HbSS,8.4,84.3,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0166,10,F,Koraput,HbSS,8.5,87.3,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0167,11,M,Golaghat,HbSS,8.2,86.5,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0168,12,M,Dibrugarh,HbSS,8.7,85.9,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0169,10,F,Tinsukia,HbSS,8.1,87.9,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0170,18,F,Koraput,HbSS,8.7,86.4,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0171,17,M,Dibrugarh,HbSS,8.5,87.7,Yes,No,Never heard,No,No,No,0-4/yr,Active
+SCD0172,11,M,Sundargarh,HbSS,8.2,85.9,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0173,18,M,Dibrugarh,HbSS,8.6,88.1,No,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0174,16,F,Golaghat,HbSS,8.4,85.5,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0175,18,F,Nabarangpur,HbSS,8.7,85.9,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0176,15,F,Sundargarh,HbSS,8.2,86.7,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0177,15,F,Sundargarh,HbSS,8.6,87.3,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0178,13,F,Nabarangpur,HbSS,8.4,86.9,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0179,19,M,Koraput,HbS-thal,10.1,52.8,No,No,Never heard,No,No,No,Rarely,Active
+SCD0180,19,M,Sundargarh,HbSS,7.8,86.1,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0181,11,F,Tinsukia,HbSS,8.4,85.2,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0182,16,F,Dibrugarh,HbSS,8.4,86.2,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0183,14,M,Mayurbhanj,HbSE,12.6,57.9,Yes,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0184,15,F,Jorhat,HbSE,9.3,49.2,No,No,Never heard,No,No,No,Rarely,Active
+SCD0185,11,M,Sundargarh,HbSS,8.3,85.9,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0186,14,M,Golaghat,HbSS,8.4,85.6,Yes,Yes,Knows inherited,No,No,No,0-4/yr,Active
+SCD0187,19,M,Kalahandi,HbSS,8.1,87.0,No,Yes,Never heard,No,No,No,9-12/yr,Lost to follow-up
+SCD0188,13,M,Jorhat,HbSS,8.5,85.6,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0189,18,F,Dibrugarh,HbSS,8.5,85.8,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0190,15,M,Sivasagar,HbSS,8.4,87.2,No,No,Never heard,No,No,No,5-8/yr,Active
+SCD0191,11,F,Golaghat,HbSS,8.3,86.9,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0192,10,F,Mayurbhanj,HbSE,9.2,49.0,No,Yes,Never heard,No,Yes,No,Rarely,Active
+SCD0193,14,F,Golaghat,HbSE,9.7,46.3,No,No,Knows inherited,No,No,No,Rarely,Lost to follow-up
+SCD0194,18,M,Nabarangpur,HbSS,8.3,84.9,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0195,15,M,Nabarangpur,HbSS,8.2,86.1,Yes,No,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0196,19,M,Kalahandi,HbSS,8.3,86.2,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0197,16,F,Dibrugarh,HbSS,8.3,86.9,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0198,14,F,Koraput,HbSE,11.3,46.8,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0199,19,M,Dibrugarh,HbSE,8.2,44.8,No,No,Heard but don't know inherited,Yes,Yes,No,Rarely,Active
+SCD0200,15,F,Dibrugarh,HbSS,8.2,86.0,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0201,14,M,Tinsukia,HbSS,8.2,85.1,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0202,18,F,Sivasagar,HbSS,8.2,86.6,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0203,15,M,Dibrugarh,HbSS,8.4,85.8,No,Yes,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0204,17,F,Kalahandi,HbSE,9.4,45.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0205,11,M,Mayurbhanj,HbSS,8.3,85.6,No,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0206,18,F,Koraput,HbSS,8.4,84.6,No,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0207,14,F,Sundargarh,HbSS,8.2,86.7,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0208,16,F,Kalahandi,HbSS,8.4,89.1,Yes,No,Knows inherited,Yes,No,No,5-8/yr,Active
+SCD0209,19,M,Mayurbhanj,HbSS,8.4,85.4,No,No,Heard but don't know inherited,No,No,No,9-12/yr,Lost to follow-up
+SCD0210,10,M,Golaghat,HbSS,8.3,84.6,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0211,19,M,Dibrugarh,HbSS,8.3,85.6,No,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0212,14,M,Kalahandi,HbSS,8.5,85.9,Yes,No,Knows inherited,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0213,19,M,Dibrugarh,HbSS,8.3,85.8,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0214,11,F,Koraput,HbSS,8.7,86.1,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0215,15,F,Dibrugarh,HbSS,8.7,87.2,No,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0216,10,M,Dibrugarh,HbSS,8.4,86.8,No,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0217,12,M,Dibrugarh,HbSS,8.4,84.5,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0218,14,M,Nabarangpur,HbSS,8.3,87.2,No,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0219,13,F,Golaghat,HbSS,8.3,85.0,Yes,No,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0220,12,M,Jorhat,HbSS,8.3,88.1,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0221,19,F,Dibrugarh,HbSS,8.6,86.3,Yes,No,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0222,14,M,Dibrugarh,HbSS,8.5,86.0,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0223,17,F,Dibrugarh,HbSS,8.0,85.5,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0224,13,F,Koraput,HbSS,8.6,86.1,Yes,No,Heard but don't know inherited,Yes,No,No,9-12/yr,Lost to follow-up
+SCD0225,10,M,Nabarangpur,HbSS,8.3,86.1,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0226,16,F,Sundargarh,HbSS,8.7,88.0,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0227,17,M,Dibrugarh,HbSA,11.7,40.2,No,No,Knows inherited,No,No,No,Rarely,Active
+SCD0228,12,F,Dibrugarh,HbSS,8.4,84.9,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0229,15,M,Mayurbhanj,HbSE,12.2,44.2,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0230,11,F,Golaghat,HbSS,8.4,85.3,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0231,16,F,Jorhat,HbSS,8.2,85.6,Yes,No,Knows inherited,No,No,No,9-12/yr,Lost to follow-up
+SCD0232,17,F,Tinsukia,HbSS,8.2,85.9,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0233,15,F,Dibrugarh,HbSS,8.2,87.2,Yes,No,Never heard,No,No,Yes,0-4/yr,Lost to follow-up
+SCD0234,15,M,Sivasagar,HbSS,8.1,86.6,No,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0235,14,M,Koraput,HbSS,8.6,85.9,Yes,No,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0236,17,M,Sivasagar,HbSS,8.2,86.2,No,No,Never heard,No,No,No,5-8/yr,Active
+SCD0237,10,M,Koraput,HbSS,8.6,86.6,No,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0238,19,F,Sivasagar,HbSS,8.2,86.9,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0239,13,M,Mayurbhanj,HbSS,8.1,87.1,No,Yes,Never heard,No,No,Yes,0-4/yr,Lost to follow-up
+SCD0240,13,F,Sivasagar,HbSS,8.4,86.1,Yes,Yes,Heard but don't know inherited,Yes,No,No,5-8/yr,Lost to follow-up
+SCD0241,12,F,Jorhat,HbS-thal,8.7,45.6,No,Yes,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0242,12,F,Koraput,HbS-thal,10.8,56.1,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0243,13,M,Dibrugarh,HbSE,9.0,52.3,Yes,Yes,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0244,10,F,Golaghat,HbSS,7.9,85.8,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0245,11,F,Dibrugarh,HbSS,8.3,85.5,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0246,18,M,Sivasagar,HbSE,8.6,46.7,Yes,No,Knows inherited,No,No,No,Rarely,Lost to follow-up
+SCD0247,19,F,Dibrugarh,HbSS,8.4,86.2,No,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0248,11,F,Nabarangpur,HbSA,10.9,38.8,No,Yes,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0249,14,M,Mayurbhanj,HbSA,11.2,40.6,Yes,Yes,Never heard,No,No,No,Rarely,Active
+SCD0250,18,M,Koraput,HbSS,7.7,85.9,Yes,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0251,18,M,Tinsukia,HbSS,8.2,87.8,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0252,17,M,Nabarangpur,HbSS,8.2,86.8,No,No,Never heard,No,No,Yes,5-8/yr,Lost to follow-up
+SCD0253,10,M,Dibrugarh,HbSS,8.3,84.3,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0254,10,M,Dibrugarh,HbSS,8.5,86.6,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0255,18,M,Dibrugarh,HbSS,8.4,90.3,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0256,17,M,Sivasagar,HbSS,7.9,88.1,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0257,19,F,Golaghat,HbS-thal,9.6,51.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0258,18,F,Nabarangpur,HbSS,8.3,86.0,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0259,16,F,Sivasagar,HbSS,8.2,86.7,No,No,Heard but don't know inherited,No,No,No,5-8/yr,Lost to follow-up
+SCD0260,12,M,Tinsukia,HbSS,8.0,87.2,No,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0261,12,M,Dibrugarh,HbSS,8.2,85.3,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0262,11,M,Golaghat,HbSA,11.2,41.2,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0263,14,M,Koraput,HbSS,8.2,86.8,No,Yes,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0264,12,M,Sundargarh,HbSS,8.2,87.2,No,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0265,15,F,Sivasagar,HbSE,11.0,59.2,No,No,Never heard,No,No,No,Rarely,Active
+SCD0266,11,M,Dibrugarh,HbSS,8.3,87.1,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0267,12,F,Sivasagar,HbSS,8.3,87.7,No,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0268,14,F,Jorhat,HbSS,8.2,87.1,Yes,Yes,Never heard,No,No,Yes,0-4/yr,Lost to follow-up
+SCD0269,10,M,Sundargarh,HbSS,8.3,86.3,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0270,10,M,Jorhat,HbSS,8.3,86.7,No,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0271,19,F,Dibrugarh,HbSS,8.3,86.6,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0272,18,M,Dibrugarh,HbSS,8.7,87.4,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Lost to follow-up
+SCD0273,16,M,Dibrugarh,HbSS,8.5,85.9,Yes,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0274,10,F,Jorhat,HbSE,8.7,54.8,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0275,17,M,Sundargarh,HbSS,8.5,87.9,No,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0276,12,F,Dibrugarh,HbSS,8.2,86.2,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0277,17,F,Tinsukia,HbSS,8.0,86.0,Yes,No,Knows inherited,No,Yes,No,0-4/yr,Active
+SCD0278,14,M,Tinsukia,HbSS,8.5,85.9,Yes,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0279,10,M,Tinsukia,HbSS,8.5,86.2,No,No,Knows inherited,Yes,No,Yes,5-8/yr,Active
+SCD0280,16,M,Koraput,HbSS,8.4,85.3,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0281,14,M,Mayurbhanj,HbSE,10.1,35.0,Yes,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0282,15,M,Kalahandi,HbSS,8.3,84.8,No,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0283,15,F,Sivasagar,HbSS,8.6,87.2,Yes,No,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Active
+SCD0284,17,M,Mayurbhanj,HbSS,8.4,87.9,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0285,18,M,Koraput,HbSS,8.1,88.1,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0286,11,F,Golaghat,HbSS,8.5,86.2,Yes,No,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0287,18,F,Sundargarh,HbSS,8.6,85.3,No,No,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0288,19,F,Golaghat,HbSS,8.1,85.8,Yes,No,Heard but don't know inherited,No,No,Yes,5-8/yr,Lost to follow-up
+SCD0289,18,M,Tinsukia,HbSS,8.2,85.3,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Lost to follow-up
+SCD0290,19,F,Sivasagar,HbSS,8.6,86.1,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0291,19,M,Mayurbhanj,HbSS,8.4,85.8,No,No,Knows inherited,No,No,Yes,9-12/yr,Active
+SCD0292,16,M,Sundargarh,HbSS,7.9,86.7,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0293,10,M,Tinsukia,HbSS,7.9,86.3,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0294,16,F,Sivasagar,HbSS,8.0,88.4,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0295,19,M,Tinsukia,HbSS,8.5,86.5,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0296,14,M,Koraput,HbSS,8.6,85.6,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0297,15,M,Tinsukia,HbSS,8.4,86.6,Yes,Yes,Knows inherited,No,No,No,5-8/yr,Active
+SCD0298,19,M,Tinsukia,HbSS,8.4,87.7,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0299,16,F,Tinsukia,HbSS,8.5,86.7,Yes,No,Never heard,No,No,No,0-4/yr,Active
+SCD0300,14,F,Tinsukia,HbSS,8.0,85.4,No,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0301,16,F,Sivasagar,HbSS,8.3,86.5,No,No,Heard but don't know inherited,Yes,No,No,9-12/yr,Active
+SCD0302,18,M,Dibrugarh,HbSS,8.1,88.8,Yes,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0303,12,M,Sundargarh,HbSS,8.6,87.0,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0304,17,M,Dibrugarh,HbSS,8.3,86.2,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0305,11,M,Sundargarh,HbSS,8.1,86.5,No,No,Knows inherited,Yes,No,No,5-8/yr,Active
+SCD0306,16,M,Nabarangpur,HbSA,11.3,39.4,Yes,Yes,Heard but don't know inherited,No,No,No,Rarely,Lost to follow-up
+SCD0307,11,F,Nabarangpur,HbSS,8.4,86.2,No,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0308,13,M,Sundargarh,HbSS,7.9,85.5,No,No,Never heard,No,No,Yes,5-8/yr,Lost to follow-up
+SCD0309,16,M,Kalahandi,HbSS,8.2,88.3,No,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0310,12,M,Sundargarh,HbSS,8.4,85.1,Yes,No,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0311,11,M,Sivasagar,HbSS,8.4,84.9,No,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0312,19,M,Jorhat,HbSS,8.5,85.9,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0313,16,F,Sundargarh,HbSS,8.3,87.7,No,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Lost to follow-up
+SCD0314,10,F,Golaghat,HbSA,11.0,39.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0315,17,F,Dibrugarh,HbSS,8.2,87.4,No,Yes,Never heard,No,No,No,9-12/yr,Lost to follow-up
+SCD0316,12,M,Mayurbhanj,HbSS,8.0,83.6,Yes,No,Knows inherited,No,No,No,9-12/yr,Active
+SCD0317,11,M,Sundargarh,HbSS,8.2,87.0,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0318,12,F,Dibrugarh,HbSS,8.6,85.9,Yes,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0319,14,M,Sivasagar,HbSS,8.2,87.6,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0320,17,F,Tinsukia,HbSS,7.9,86.0,Yes,No,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0321,19,M,Sundargarh,HbSS,8.4,86.8,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0322,16,M,Sundargarh,HbSS,8.2,86.4,No,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0323,16,M,Nabarangpur,HbSS,7.8,85.7,No,Yes,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0324,16,M,Mayurbhanj,HbSS,8.4,85.4,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0325,17,F,Mayurbhanj,HbS-thal,10.1,52.2,No,No,Never heard,No,No,No,Rarely,Active
+SCD0326,10,M,Mayurbhanj,HbSS,8.2,86.6,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0327,13,M,Sivasagar,HbSS,8.1,86.2,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0328,15,M,Jorhat,HbSS,8.4,86.6,No,Yes,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0329,18,M,Nabarangpur,HbSS,8.2,86.6,No,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0330,11,F,Jorhat,HbSS,8.5,84.4,No,No,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0331,10,F,Kalahandi,HbSS,8.6,86.1,Yes,No,Knows inherited,Yes,No,Yes,9-12/yr,Active
+SCD0332,19,F,Dibrugarh,HbSS,8.4,87.6,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0333,11,F,Mayurbhanj,HbSS,8.0,85.7,No,Yes,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0334,16,M,Tinsukia,HbSS,8.3,85.6,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0335,12,F,Golaghat,HbSS,8.7,85.5,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0336,19,M,Dibrugarh,HbSS,8.2,86.6,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0337,11,M,Kalahandi,HbSS,8.1,86.0,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0338,16,F,Tinsukia,HbSS,8.4,86.1,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0339,11,M,Koraput,HbSS,8.3,85.9,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0340,12,F,Jorhat,HbSS,8.0,86.7,Yes,No,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0341,16,M,Dibrugarh,HbSS,8.7,86.4,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0342,13,F,Dibrugarh,HbSS,8.4,87.1,No,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0343,10,F,Dibrugarh,HbSS,8.1,88.1,No,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0344,14,F,Dibrugarh,HbSS,8.4,88.0,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0345,18,F,Sundargarh,HbSS,8.2,88.2,Yes,Yes,Knows inherited,Yes,Yes,No,5-8/yr,Active
+SCD0346,17,F,Tinsukia,HbSS,8.5,87.0,No,No,Heard but don't know inherited,No,No,No,0-4/yr,Lost to follow-up
+SCD0347,18,M,Mayurbhanj,HbSS,8.4,86.2,No,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0348,19,M,Tinsukia,HbSS,8.6,86.5,Yes,No,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0349,18,M,Sivasagar,HbSS,7.9,85.3,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0350,16,F,Sivasagar,HbSS,8.3,86.7,No,No,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0351,13,M,Dibrugarh,HbSS,8.3,87.6,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0352,14,F,Dibrugarh,HbSS,7.9,86.5,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0353,10,M,Koraput,HbSS,7.9,87.2,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0354,10,M,Tinsukia,HbSS,8.3,86.8,No,Yes,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0355,12,F,Mayurbhanj,HbSS,8.1,87.7,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0356,17,M,Dibrugarh,HbSS,8.5,87.0,No,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0357,11,M,Mayurbhanj,HbSS,8.3,87.0,No,Yes,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Lost to follow-up
+SCD0358,13,M,Koraput,HbSS,8.2,87.3,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0359,11,F,Dibrugarh,HbS-thal,12.5,55.4,No,Yes,Heard but don't know inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0360,14,F,Sundargarh,HbSS,8.2,86.8,Yes,No,Knows inherited,No,No,Yes,5-8/yr,Active
+SCD0361,18,M,Tinsukia,HbSS,8.0,87.0,No,No,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0362,10,M,Kalahandi,HbSS,8.4,84.5,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0363,14,M,Sundargarh,HbSS,8.1,86.1,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0364,18,F,Dibrugarh,HbSS,8.3,85.2,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0365,10,F,Sundargarh,HbS-thal,10.6,51.3,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0366,18,M,Mayurbhanj,HbSS,8.3,85.6,No,Yes,Knows inherited,No,Yes,Yes,5-8/yr,Active
+SCD0367,17,M,Tinsukia,HbSA,11.5,41.5,No,Yes,Never heard,No,No,No,Rarely,Active
+SCD0368,13,M,Sundargarh,HbSE,9.3,46.9,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Lost to follow-up
+SCD0369,19,F,Sivasagar,HbSS,8.4,86.0,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0370,14,F,Sundargarh,HbSS,8.3,87.1,No,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0371,14,M,Mayurbhanj,HbSS,7.9,87.7,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0372,15,M,Tinsukia,HbSS,8.3,86.0,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0373,16,M,Kalahandi,HbSS,8.3,86.4,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0374,17,F,Sundargarh,HbSS,8.0,87.9,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0375,17,M,Kalahandi,HbSS,8.3,86.8,No,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0376,11,F,Mayurbhanj,HbSS,8.5,85.4,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0377,18,F,Sivasagar,HbSS,8.4,86.1,Yes,No,Never heard,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0378,16,M,Kalahandi,HbSS,8.5,84.3,Yes,Yes,Heard but don't know inherited,Yes,No,No,9-12/yr,Active
+SCD0379,13,M,Sivasagar,HbSS,8.3,85.8,Yes,No,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0380,13,M,Jorhat,HbSS,8.4,86.9,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0381,17,F,Dibrugarh,HbSS,8.2,85.7,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0382,13,F,Jorhat,HbSS,8.3,85.5,No,Yes,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0383,15,F,Nabarangpur,HbSS,8.5,86.0,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0384,14,M,Golaghat,HbSE,5.6,48.1,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0385,12,M,Sundargarh,HbSS,8.1,84.8,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0386,19,F,Tinsukia,HbSS,8.1,86.5,No,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0387,11,F,Dibrugarh,HbSS,8.6,86.7,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0388,18,M,Nabarangpur,HbSS,8.2,86.9,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Lost to follow-up
+SCD0389,19,F,Tinsukia,HbSS,8.2,85.7,No,Yes,Knows inherited,No,Yes,No,0-4/yr,Active
+SCD0390,18,F,Tinsukia,HbSS,8.1,84.6,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0391,10,F,Sundargarh,HbSA,11.2,40.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0392,19,F,Koraput,HbSS,8.3,86.0,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0393,12,F,Tinsukia,HbSS,8.1,87.0,No,No,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Active
+SCD0394,17,F,Tinsukia,HbSS,8.0,87.2,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0395,15,M,Golaghat,HbSS,8.1,85.6,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0396,14,M,Tinsukia,HbS-thal,7.8,47.5,No,Yes,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0397,14,F,Golaghat,HbSS,8.5,86.9,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0398,15,M,Tinsukia,HbSS,8.5,86.9,No,Yes,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0399,16,M,Mayurbhanj,HbSS,8.1,86.1,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0400,10,M,Sundargarh,HbSS,8.2,87.7,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0401,18,M,Sivasagar,HbSS,8.1,87.3,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0402,12,F,Tinsukia,HbSE,11.3,59.1,No,No,Never heard,No,No,No,Rarely,Active
+SCD0403,13,F,Sundargarh,HbSS,8.2,87.1,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0404,19,M,Kalahandi,HbSS,8.8,85.8,Yes,Yes,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0405,10,M,Golaghat,HbSS,8.0,84.5,Yes,No,Knows inherited,No,Yes,Yes,0-4/yr,Active
+SCD0406,19,M,Dibrugarh,HbSE,11.1,40.6,No,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0407,12,F,Dibrugarh,HbSS,8.2,86.8,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0408,11,F,Dibrugarh,HbSS,8.4,86.8,No,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0409,11,M,Koraput,HbSE,10.3,56.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0410,10,F,Kalahandi,HbSS,8.1,85.7,No,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0411,17,F,Kalahandi,HbSS,8.2,87.2,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0412,12,F,Sundargarh,HbS-thal,11.4,52.3,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0413,12,F,Tinsukia,HbS-thal,11.8,44.1,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0414,15,M,Nabarangpur,HbSS,8.7,87.9,No,No,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0415,17,F,Sivasagar,HbSS,8.5,88.2,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0416,18,M,Sivasagar,HbSS,8.0,85.9,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0417,18,F,Koraput,HbSS,8.2,87.1,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0418,13,F,Tinsukia,HbSS,8.1,87.2,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0419,14,F,Dibrugarh,HbSS,8.6,87.1,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0420,11,F,Jorhat,HbSS,8.4,85.4,No,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0421,18,M,Koraput,HbSS,8.1,87.6,No,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0422,17,F,Tinsukia,HbSS,8.5,86.4,Yes,Yes,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0423,12,F,Dibrugarh,HbSS,8.2,84.4,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0424,18,F,Mayurbhanj,HbSS,8.1,88.3,No,Yes,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0425,12,M,Koraput,HbSS,8.1,86.6,No,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0426,18,M,Tinsukia,HbSS,8.5,85.1,No,No,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0427,11,M,Tinsukia,HbSS,8.4,87.3,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0428,19,F,Kalahandi,HbSE,10.0,64.3,Yes,No,Never heard,No,No,No,Rarely,Active
+SCD0429,18,F,Tinsukia,HbSS,8.0,87.5,Yes,No,Knows inherited,No,No,No,0-4/yr,Active
+SCD0430,17,M,Nabarangpur,HbSS,8.3,87.2,Yes,Yes,Knows inherited,No,No,No,9-12/yr,Active
+SCD0431,18,M,Tinsukia,HbSS,8.4,85.7,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0432,14,F,Koraput,HbSS,8.4,84.5,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0433,11,F,Jorhat,HbSS,8.4,86.7,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0434,17,M,Mayurbhanj,HbSS,8.5,87.5,No,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0435,15,F,Kalahandi,HbSS,8.4,86.5,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0436,17,M,Sundargarh,HbSS,8.1,85.7,Yes,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0437,14,M,Sundargarh,HbSS,8.6,87.8,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0438,19,F,Dibrugarh,HbSS,8.3,86.4,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0439,11,F,Mayurbhanj,HbSS,8.1,87.6,No,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Active
+SCD0440,15,F,Sivasagar,HbSS,8.5,88.3,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0441,14,F,Sundargarh,HbSS,8.1,86.0,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0442,14,F,Nabarangpur,HbSA,11.3,40.8,No,No,Knows inherited,Yes,No,No,Rarely,Active
+SCD0443,10,M,Kalahandi,HbSS,8.3,85.5,Yes,No,Never heard,No,No,No,0-4/yr,Active
+SCD0444,11,M,Sundargarh,HbSS,8.5,87.1,No,Yes,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0445,17,M,Koraput,HbSS,8.1,87.8,Yes,Yes,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0446,12,M,Nabarangpur,HbS-thal,11.8,50.7,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0447,19,F,Dibrugarh,HbSA,11.3,40.7,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Lost to follow-up
+SCD0448,12,F,Nabarangpur,HbSS,8.1,86.4,No,Yes,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0449,17,M,Dibrugarh,HbSS,7.9,87.3,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0450,17,M,Dibrugarh,HbSS,8.0,87.9,No,No,Never heard,No,No,No,0-4/yr,Active
+SCD0451,11,F,Sundargarh,HbSS,8.3,86.2,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0452,17,M,Dibrugarh,HbSS,8.2,86.1,No,No,Knows inherited,Yes,No,Yes,0-4/yr,Active
+SCD0453,10,F,Golaghat,HbSS,8.6,83.9,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0454,15,F,Dibrugarh,HbSE,11.9,51.7,No,No,Never heard,No,No,No,Rarely,Active
+SCD0455,17,F,Tinsukia,HbSS,8.1,85.3,No,No,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0456,12,M,Kalahandi,HbSS,8.7,85.5,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0457,17,M,Tinsukia,HbSS,8.1,87.5,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0458,10,F,Tinsukia,HbSS,8.4,85.5,Yes,No,Knows inherited,No,Yes,Yes,0-4/yr,Active
+SCD0459,18,F,Dibrugarh,HbSS,8.4,85.4,No,Yes,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0460,18,M,Golaghat,HbSS,8.6,87.5,No,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0461,14,F,Koraput,HbSS,8.4,86.8,No,Yes,Knows inherited,No,No,Yes,9-12/yr,Active
+SCD0462,19,M,Sundargarh,HbSS,8.7,86.4,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0463,13,F,Tinsukia,HbSS,8.1,86.8,Yes,No,Never heard,No,No,No,0-4/yr,Active
+SCD0464,15,M,Sivasagar,HbSS,8.8,85.4,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0465,16,F,Koraput,HbSA,11.2,40.6,No,No,Never heard,No,Yes,No,Rarely,Active
+SCD0466,14,M,Mayurbhanj,HbSS,8.3,85.4,No,Yes,Knows inherited,Yes,No,No,0-4/yr,Active
+SCD0467,19,M,Sundargarh,HbSS,8.6,88.7,No,Yes,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0468,18,M,Mayurbhanj,HbSS,8.4,85.5,Yes,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Lost to follow-up
+SCD0469,12,M,Tinsukia,HbSS,8.0,86.7,Yes,No,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0470,16,F,Dibrugarh,HbSA,11.5,40.6,No,No,Never heard,No,No,No,Rarely,Active
+SCD0471,19,F,Kalahandi,HbSS,8.3,85.8,Yes,No,Knows inherited,No,No,Yes,5-8/yr,Active
+SCD0472,19,M,Nabarangpur,HbSA,11.1,40.9,No,No,Never heard,No,No,No,Rarely,Active
+SCD0473,14,M,Sundargarh,HbSS,8.5,84.9,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0474,16,F,Mayurbhanj,HbSE,12.4,52.9,No,No,Knows inherited,Yes,No,No,Rarely,Active
+SCD0475,11,F,Tinsukia,HbSS,8.6,85.1,Yes,Yes,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0476,13,F,Golaghat,HbSA,11.0,40.2,No,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0477,11,M,Sivasagar,HbSS,8.4,88.2,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0478,16,M,Sundargarh,HbSS,8.5,86.2,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0479,11,F,Jorhat,HbSA,11.1,41.2,No,Yes,Never heard,No,No,No,Rarely,Active
+SCD0480,10,M,Sivasagar,HbSS,8.1,88.0,No,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0481,18,F,Sivasagar,HbSS,8.3,88.0,No,No,Never heard,No,No,No,9-12/yr,Lost to follow-up
+SCD0482,10,M,Dibrugarh,HbSS,8.5,86.3,No,No,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0483,17,F,Nabarangpur,HbSS,8.2,86.1,Yes,No,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0484,11,M,Kalahandi,HbSS,8.4,86.5,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0485,17,F,Sundargarh,HbSS,8.2,86.2,Yes,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0486,12,M,Mayurbhanj,HbSE,10.1,39.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0487,15,F,Mayurbhanj,HbSS,8.4,85.4,No,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0488,12,M,Dibrugarh,HbSS,8.1,84.7,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0489,16,F,Tinsukia,HbS-thal,7.3,43.2,No,Yes,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0490,19,F,Dibrugarh,HbSE,8.9,59.8,No,Yes,Never heard,No,No,No,Rarely,Active
+SCD0491,18,F,Sundargarh,HbSS,8.2,86.6,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0492,11,F,Golaghat,HbSS,8.4,86.5,No,Yes,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0493,14,F,Jorhat,HbSS,8.3,85.2,No,Yes,Knows inherited,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0494,15,F,Sivasagar,HbSS,8.6,88.2,No,No,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0495,13,M,Golaghat,HbSS,8.0,85.4,Yes,No,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0496,13,F,Dibrugarh,HbSS,8.3,85.4,Yes,Yes,Heard but don't know inherited,No,Yes,No,5-8/yr,Active
+SCD0497,13,M,Golaghat,HbSS,8.4,85.7,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0498,11,M,Sundargarh,HbSS,8.8,87.6,No,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0499,13,M,Kalahandi,HbSA,11.3,41.0,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0500,10,M,Mayurbhanj,HbSA,11.5,39.9,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0501,15,F,Koraput,HbSS,8.1,86.5,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0502,10,F,Koraput,HbSS,8.5,86.5,Yes,Yes,Knows inherited,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0503,19,F,Dibrugarh,HbSS,8.0,85.6,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0504,15,M,Sivasagar,HbSS,8.3,86.3,Yes,No,Knows inherited,Yes,Yes,No,9-12/yr,Active
+SCD0505,10,M,Dibrugarh,HbSS,8.7,85.0,No,No,Knows inherited,Yes,No,No,0-4/yr,Lost to follow-up
+SCD0506,15,M,Koraput,HbSS,8.4,87.9,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0507,19,M,Sivasagar,HbSE,13.4,48.0,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0508,17,M,Tinsukia,HbSS,8.4,87.0,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0509,11,M,Nabarangpur,HbS-thal,10.3,49.5,No,No,Knows inherited,Yes,No,No,Rarely,Active
+SCD0510,11,M,Tinsukia,HbSS,8.4,83.9,Yes,Yes,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0511,13,F,Mayurbhanj,HbSS,8.5,86.5,No,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0512,12,F,Kalahandi,HbSS,8.3,88.4,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0513,13,F,Jorhat,HbS-thal,9.0,48.0,No,Yes,Heard but don't know inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0514,16,F,Mayurbhanj,HbSS,8.7,85.6,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0515,10,F,Dibrugarh,HbSS,8.2,86.3,Yes,Yes,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0516,15,M,Jorhat,HbSS,8.5,86.6,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0517,12,F,Tinsukia,HbSS,8.0,85.9,Yes,Yes,Knows inherited,No,Yes,No,9-12/yr,Active
+SCD0518,19,F,Sundargarh,HbSS,8.2,86.3,Yes,Yes,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0519,16,M,Koraput,HbSA,11.3,40.6,No,No,Never heard,No,No,No,Rarely,Active
+SCD0520,19,M,Sundargarh,HbSS,7.9,87.5,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0521,11,F,Tinsukia,HbSS,8.4,87.8,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0522,11,M,Dibrugarh,HbSS,8.4,87.5,Yes,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0523,13,F,Koraput,HbSA,11.4,41.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0524,10,F,Golaghat,HbSS,8.4,86.3,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0525,12,M,Dibrugarh,HbSS,8.8,87.3,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0526,18,M,Mayurbhanj,HbSS,8.4,85.1,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0527,16,M,Dibrugarh,HbSS,8.0,86.7,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0528,16,M,Tinsukia,HbSS,8.4,85.8,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0529,13,M,Sundargarh,HbSS,8.3,88.0,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0530,11,F,Mayurbhanj,HbSS,8.5,85.3,Yes,No,Never heard,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0531,13,M,Sivasagar,HbSS,8.3,85.6,No,Yes,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0532,15,M,Dibrugarh,HbSA,11.2,40.0,No,No,Never heard,No,No,No,Rarely,Active
+SCD0533,12,M,Dibrugarh,HbSA,11.2,39.4,No,No,Never heard,No,No,No,Rarely,Active
+SCD0534,10,F,Dibrugarh,HbSS,8.3,85.8,No,No,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0535,17,M,Sundargarh,HbSS,7.7,88.5,Yes,No,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0536,14,M,Koraput,HbS-thal,11.6,48.1,Yes,Yes,Never heard,No,No,No,Rarely,Active
+SCD0537,14,F,Dibrugarh,HbSS,8.3,85.2,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0538,13,F,Koraput,HbSS,8.7,88.3,No,No,Knows inherited,No,No,Yes,0-4/yr,Active
+SCD0539,15,M,Sundargarh,HbSS,8.4,87.4,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Lost to follow-up
+SCD0540,12,F,Sivasagar,HbSS,8.4,85.1,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0541,18,M,Golaghat,HbS-thal,9.4,50.7,No,No,Never heard,No,No,No,Rarely,Active
+SCD0542,14,M,Sivasagar,HbSS,8.2,86.2,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0543,12,M,Sivasagar,HbSS,8.3,86.3,Yes,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0544,10,M,Mayurbhanj,HbSS,8.3,85.3,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0545,19,F,Golaghat,HbSS,8.2,85.1,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0546,15,M,Koraput,HbSS,8.5,84.3,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0547,11,M,Golaghat,HbSS,8.6,87.8,Yes,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0548,12,F,Golaghat,HbSS,8.3,83.8,No,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0549,10,F,Tinsukia,HbSS,8.2,86.3,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0550,18,M,Golaghat,HbSS,8.1,85.9,No,No,Never heard,No,No,No,0-4/yr,Active
+SCD0551,17,F,Dibrugarh,HbSS,8.6,87.1,Yes,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0552,11,M,Mayurbhanj,HbSS,8.1,84.8,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0553,17,F,Dibrugarh,HbSS,8.3,86.2,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0554,18,F,Dibrugarh,HbSS,8.4,85.9,No,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0555,10,F,Sundargarh,HbSE,10.8,59.7,Yes,No,Knows inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0556,14,M,Dibrugarh,HbSS,8.5,86.4,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0557,27,M,Golaghat,HbSS,8.3,86.0,Yes,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0558,21,M,Koraput,HbSS,8.6,85.8,Yes,No,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0559,23,M,Sivasagar,HbSS,8.3,86.5,Yes,No,Never heard,No,No,Yes,9-12/yr,Active
+SCD0560,26,M,Jorhat,HbSS,8.2,85.0,Yes,Yes,Knows inherited,No,Yes,Yes,5-8/yr,Active
+SCD0561,22,F,Jorhat,HbSS,8.4,86.3,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0562,24,M,Golaghat,HbSS,8.4,85.9,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0563,27,M,Dibrugarh,HbSS,8.6,85.5,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0564,29,F,Golaghat,HbSS,8.7,84.7,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,9-12/yr,Active
+SCD0565,22,M,Tinsukia,HbSS,8.4,86.9,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0566,23,F,Koraput,HbSS,8.2,86.8,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0567,28,M,Dibrugarh,HbSS,8.6,84.2,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0568,26,M,Tinsukia,HbSS,8.4,83.9,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0569,20,M,Mayurbhanj,HbSE,8.6,58.1,No,No,Never heard,No,No,No,Rarely,Active
+SCD0570,23,M,Tinsukia,HbSS,8.2,85.2,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0571,23,F,Tinsukia,HbSS,8.3,88.5,No,No,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0572,28,M,Koraput,HbSS,7.9,85.3,No,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0573,25,M,Dibrugarh,HbSS,8.6,88.3,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0574,28,M,Tinsukia,HbSS,8.3,85.2,Yes,No,Heard but don't know inherited,No,Yes,No,9-12/yr,Active
+SCD0575,25,M,Dibrugarh,HbSS,8.8,88.0,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0576,25,F,Sundargarh,HbS-thal,11.0,45.9,No,No,Knows inherited,Yes,No,No,Rarely,Active
+SCD0577,24,M,Sundargarh,HbSS,8.3,86.2,No,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0578,24,F,Kalahandi,HbSE,10.5,57.3,Yes,No,Never heard,No,Yes,No,Rarely,Lost to follow-up
+SCD0579,21,F,Jorhat,HbSS,8.5,85.3,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Lost to follow-up
+SCD0580,27,F,Mayurbhanj,HbSS,8.6,86.7,Yes,Yes,Knows inherited,No,No,Yes,0-4/yr,Active
+SCD0581,27,F,Tinsukia,HbSS,8.5,87.9,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0582,20,M,Mayurbhanj,HbSA,11.1,40.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0583,27,M,Kalahandi,HbSS,8.2,84.8,No,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0584,24,M,Sivasagar,HbSS,8.4,88.9,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0585,21,F,Tinsukia,HbSS,7.9,86.4,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0586,21,F,Sundargarh,HbSS,8.5,86.5,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0587,25,M,Nabarangpur,HbSS,8.3,85.1,Yes,Yes,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0588,28,F,Sundargarh,HbSS,8.4,85.6,Yes,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0589,20,M,Dibrugarh,HbSS,7.9,87.6,Yes,No,Knows inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0590,25,F,Tinsukia,HbSS,8.5,86.5,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0591,28,M,Sundargarh,HbSS,8.4,87.5,Yes,No,Never heard,No,No,No,0-4/yr,Active
+SCD0592,27,F,Mayurbhanj,HbSS,8.4,87.3,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0593,25,F,Nabarangpur,HbSS,8.3,87.7,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0594,22,M,Jorhat,HbSS,8.4,86.6,No,No,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0595,27,M,Golaghat,HbSE,8.1,51.4,No,No,Heard but don't know inherited,No,No,No,Rarely,Lost to follow-up
+SCD0596,28,M,Sundargarh,HbSS,8.1,85.8,No,Yes,Heard but don't know inherited,No,No,Yes,0-4/yr,Active
+SCD0597,20,M,Tinsukia,HbSS,8.1,85.3,Yes,No,Knows inherited,No,Yes,Yes,9-12/yr,Active
+SCD0598,28,M,Nabarangpur,HbSS,8.8,87.7,No,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0599,25,F,Nabarangpur,HbSS,8.7,85.2,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0600,25,F,Tinsukia,HbSS,8.3,85.1,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0601,23,M,Jorhat,HbSS,8.2,85.5,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0602,20,M,Golaghat,HbSS,8.6,86.0,Yes,Yes,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0603,29,F,Dibrugarh,HbSS,8.5,87.0,Yes,No,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0604,27,F,Kalahandi,HbSS,8.8,84.9,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0605,21,M,Sivasagar,HbSS,8.6,87.5,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0606,20,F,Mayurbhanj,HbSS,8.1,87.4,Yes,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0607,21,M,Dibrugarh,HbSS,8.4,86.2,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0608,20,M,Kalahandi,HbSS,8.1,85.7,No,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0609,20,M,Tinsukia,HbSS,8.8,86.4,No,Yes,Knows inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0610,28,M,Mayurbhanj,HbSS,8.5,85.6,Yes,No,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0611,20,M,Koraput,HbSS,8.2,87.5,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0612,23,F,Jorhat,HbSS,8.0,86.0,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Lost to follow-up
+SCD0613,29,F,Sundargarh,HbSS,8.3,86.5,Yes,No,Never heard,No,No,No,9-12/yr,Active
+SCD0614,25,F,Dibrugarh,HbSS,8.3,86.8,Yes,Yes,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Lost to follow-up
+SCD0615,26,M,Mayurbhanj,HbSE,11.0,53.7,No,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0616,21,M,Sundargarh,HbSE,8.5,48.6,No,No,Never heard,No,No,No,Rarely,Active
+SCD0617,25,F,Sundargarh,HbSS,8.6,87.3,No,No,Never heard,No,No,No,5-8/yr,Active
+SCD0618,26,F,Koraput,HbSS,8.0,86.8,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0619,29,M,Sivasagar,HbSS,7.9,86.4,No,Yes,Never heard,No,No,Yes,0-4/yr,Lost to follow-up
+SCD0620,29,M,Mayurbhanj,HbSS,8.7,85.5,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Lost to follow-up
+SCD0621,21,F,Golaghat,HbSS,8.1,87.2,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0622,21,M,Dibrugarh,HbSS,8.0,85.8,No,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0623,29,M,Dibrugarh,HbSS,8.4,85.8,No,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0624,26,F,Dibrugarh,HbSS,8.3,87.1,Yes,Yes,Never heard,No,No,No,9-12/yr,Lost to follow-up
+SCD0625,20,M,Dibrugarh,HbSS,8.4,86.7,No,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0626,27,M,Tinsukia,HbSS,8.2,86.8,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0627,22,M,Mayurbhanj,HbSS,8.3,86.9,Yes,No,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0628,25,M,Kalahandi,HbSS,8.2,86.2,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0629,28,F,Jorhat,HbSS,8.1,86.4,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0630,25,M,Jorhat,HbSS,8.1,85.3,Yes,No,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0631,28,M,Jorhat,HbSS,8.4,86.6,Yes,No,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0632,26,F,Nabarangpur,HbSE,11.2,47.8,No,No,Heard but don't know inherited,No,Yes,No,Rarely,Active
+SCD0633,28,F,Sivasagar,HbSS,8.4,87.0,Yes,No,Heard but don't know inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0634,21,F,Dibrugarh,HbSS,8.4,85.6,No,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0635,27,M,Dibrugarh,HbSS,8.4,86.8,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0636,27,M,Koraput,HbSS,8.3,84.3,No,No,Never heard,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0637,21,F,Dibrugarh,HbSS,8.4,88.6,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0638,23,F,Koraput,HbSS,8.2,85.7,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0639,26,M,Kalahandi,HbSS,8.4,86.7,No,Yes,Knows inherited,Yes,Yes,No,5-8/yr,Active
+SCD0640,23,M,Sivasagar,HbSS,8.6,85.1,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Active
+SCD0641,23,M,Koraput,HbSS,8.5,87.0,Yes,No,Heard but don't know inherited,Yes,No,No,5-8/yr,Lost to follow-up
+SCD0642,25,F,Sundargarh,HbSS,8.3,86.7,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0643,29,M,Sundargarh,HbSS,8.5,87.3,Yes,No,Knows inherited,Yes,Yes,No,0-4/yr,Active
+SCD0644,25,M,Jorhat,HbSS,8.1,87.2,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0645,29,M,Dibrugarh,HbSS,8.3,86.5,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0646,22,F,Nabarangpur,HbSE,10.1,49.2,No,No,Never heard,No,No,No,Rarely,Active
+SCD0647,28,F,Sivasagar,HbSS,8.6,86.3,No,No,Knows inherited,Yes,Yes,No,9-12/yr,Lost to follow-up
+SCD0648,29,M,Sivasagar,HbSS,8.1,86.0,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0649,21,F,Kalahandi,HbSS,8.4,87.6,Yes,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0650,25,F,Tinsukia,HbSS,8.4,85.5,Yes,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0651,26,M,Tinsukia,HbSS,8.8,86.7,Yes,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0652,28,M,Tinsukia,HbSS,8.6,86.2,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0653,22,M,Koraput,HbSS,8.4,87.2,No,No,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0654,29,F,Sivasagar,HbSS,8.6,87.5,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0655,22,F,Dibrugarh,HbSS,8.5,86.1,No,No,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0656,26,F,Mayurbhanj,HbSS,8.2,86.7,Yes,Yes,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0657,23,F,Nabarangpur,HbSS,8.5,86.2,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0658,27,M,Sundargarh,HbSS,8.5,87.9,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0659,26,F,Koraput,HbSS,8.1,85.6,Yes,Yes,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Lost to follow-up
+SCD0660,24,M,Tinsukia,HbSS,8.3,86.7,Yes,No,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0661,26,M,Sundargarh,HbSS,8.2,87.8,No,Yes,Heard but don't know inherited,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0662,22,F,Nabarangpur,HbSA,11.3,40.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0663,21,F,Dibrugarh,HbSS,8.0,85.1,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0664,25,M,Sundargarh,HbSS,8.4,84.3,No,No,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0665,21,F,Golaghat,HbSS,8.5,86.2,No,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0666,22,F,Mayurbhanj,HbSS,9.0,88.7,Yes,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0667,25,M,Kalahandi,HbSS,8.3,86.3,Yes,Yes,Knows inherited,No,No,Yes,5-8/yr,Active
+SCD0668,24,F,Kalahandi,HbSS,8.5,88.1,Yes,No,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0669,27,M,Mayurbhanj,HbSS,8.0,84.6,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0670,28,M,Sundargarh,HbSS,8.2,87.0,Yes,No,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0671,22,M,Tinsukia,HbSS,8.4,87.5,Yes,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0672,29,F,Golaghat,HbSE,8.2,38.4,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0673,22,F,Mayurbhanj,HbSS,8.5,85.6,No,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0674,22,M,Tinsukia,HbSS,7.9,86.5,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0675,25,M,Tinsukia,HbSS,8.5,86.3,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0676,20,F,Sivasagar,HbSA,11.2,40.2,No,No,Heard but don't know inherited,Yes,Yes,No,Rarely,Active
+SCD0677,26,M,Nabarangpur,HbSS,8.2,85.1,Yes,No,Never heard,No,No,No,9-12/yr,Lost to follow-up
+SCD0678,20,F,Kalahandi,HbSS,8.2,86.9,Yes,No,Heard but don't know inherited,Yes,No,Yes,9-12/yr,Active
+SCD0679,24,F,Kalahandi,HbSA,11.3,40.4,No,No,Never heard,No,No,No,Rarely,Lost to follow-up
+SCD0680,29,M,Tinsukia,HbSS,8.1,86.2,Yes,No,Heard but don't know inherited,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0681,27,F,Sivasagar,HbSS,7.9,86.6,Yes,Yes,Heard but don't know inherited,No,No,No,9-12/yr,Active
+SCD0682,23,M,Koraput,HbSS,8.6,84.9,No,Yes,Never heard,No,No,No,0-4/yr,Lost to follow-up
+SCD0683,24,F,Nabarangpur,HbSS,8.2,86.7,Yes,Yes,Heard but don't know inherited,No,Yes,No,5-8/yr,Active
+SCD0684,23,F,Jorhat,HbSS,8.6,86.0,Yes,No,Never heard,No,No,Yes,0-4/yr,Lost to follow-up
+SCD0685,23,F,Sivasagar,HbSE,9.0,40.2,No,No,Heard but don't know inherited,Yes,Yes,No,Rarely,Active
+SCD0686,27,M,Golaghat,HbSS,8.3,88.4,No,Yes,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0687,21,F,Tinsukia,HbSS,8.4,86.4,Yes,Yes,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0688,20,M,Nabarangpur,HbSS,8.4,86.4,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0689,22,M,Dibrugarh,HbSS,8.1,87.2,No,No,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0690,28,M,Tinsukia,HbSS,8.4,86.4,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0691,23,F,Sundargarh,HbSS,8.1,87.7,No,No,Never heard,No,No,No,5-8/yr,Active
+SCD0692,29,M,Dibrugarh,HbSS,8.5,85.8,No,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0693,24,F,Tinsukia,HbSS,8.5,85.9,No,No,Never heard,No,Yes,No,0-4/yr,Active
+SCD0694,21,F,Koraput,HbSS,8.2,85.6,Yes,Yes,Never heard,No,No,Yes,0-4/yr,Active
+SCD0695,23,M,Sivasagar,HbSS,7.9,86.9,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0696,21,F,Dibrugarh,HbSS,7.9,85.2,Yes,Yes,Heard but don't know inherited,No,Yes,Yes,0-4/yr,Active
+SCD0697,21,M,Golaghat,HbSS,7.9,86.3,No,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0698,23,F,Sundargarh,HbSS,8.3,86.1,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0699,25,F,Mayurbhanj,HbSS,8.1,85.2,No,No,Knows inherited,Yes,No,Yes,5-8/yr,Active
+SCD0700,26,M,Dibrugarh,HbSS,8.4,85.8,Yes,No,Never heard,No,No,No,0-4/yr,Lost to follow-up
+SCD0701,29,F,Mayurbhanj,HbSS,8.4,85.5,No,No,Never heard,No,No,Yes,5-8/yr,Active
+SCD0702,22,M,Tinsukia,HbSS,8.4,87.7,Yes,Yes,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0703,22,M,Tinsukia,HbSS,8.4,86.0,No,Yes,Heard but don't know inherited,No,No,No,0-4/yr,Lost to follow-up
+SCD0704,29,F,Sundargarh,HbSS,8.4,86.2,No,Yes,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0705,25,M,Dibrugarh,HbSS,8.3,86.1,Yes,Yes,Knows inherited,No,Yes,Yes,0-4/yr,Active
+SCD0706,22,M,Dibrugarh,HbSA,11.2,40.5,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0707,21,M,Kalahandi,HbSS,8.1,85.4,No,Yes,Never heard,No,Yes,No,5-8/yr,Lost to follow-up
+SCD0708,27,F,Jorhat,HbSS,8.0,84.8,No,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0709,24,M,Sivasagar,HbSS,8.1,86.6,Yes,Yes,Never heard,No,No,No,5-8/yr,Active
+SCD0710,20,M,Tinsukia,HbSS,8.1,86.9,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0711,22,F,Tinsukia,HbSS,8.3,84.4,No,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0712,29,F,Dibrugarh,HbSS,8.5,87.2,No,No,Heard but don't know inherited,Yes,Yes,No,9-12/yr,Active
+SCD0713,27,M,Jorhat,HbSS,8.1,86.8,No,No,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Active
+SCD0714,23,M,Tinsukia,HbSS,8.1,86.5,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0715,26,M,Tinsukia,HbSS,8.1,84.6,Yes,Yes,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0716,29,M,Sivasagar,HbSE,9.4,49.4,No,No,Knows inherited,Yes,No,No,Rarely,Active
+SCD0717,21,M,Mayurbhanj,HbSS,8.2,85.2,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0718,26,F,Sivasagar,HbSA,11.2,40.5,Yes,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0719,24,F,Koraput,HbSS,8.3,86.6,No,Yes,Heard but don't know inherited,No,Yes,No,9-12/yr,Lost to follow-up
+SCD0720,24,F,Kalahandi,HbSS,8.2,87.6,Yes,No,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0721,25,M,Kalahandi,HbS-thal,8.2,52.4,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0722,28,F,Golaghat,HbSS,8.6,86.9,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0723,25,M,Sivasagar,HbSS,8.3,85.9,No,Yes,Never heard,No,Yes,Yes,5-8/yr,Active
+SCD0724,27,F,Tinsukia,HbSS,8.5,85.0,Yes,Yes,Knows inherited,No,Yes,Yes,0-4/yr,Active
+SCD0725,26,F,Tinsukia,HbSS,8.1,86.0,Yes,No,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0726,54,M,Dibrugarh,HbSS,8.6,86.8,Yes,Yes,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0727,49,F,Jorhat,HbSS,8.1,86.1,Yes,Yes,Heard but don't know inherited,Yes,No,No,5-8/yr,Lost to follow-up
+SCD0728,31,M,Dibrugarh,HbSS,8.2,85.7,Yes,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0729,68,F,Nabarangpur,HbSS,8.5,85.0,No,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0730,35,M,Koraput,HbSS,8.7,87.2,No,No,Heard but don't know inherited,Yes,Yes,No,5-8/yr,Active
+SCD0731,46,M,Sivasagar,HbSS,8.5,85.9,Yes,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0732,54,F,Tinsukia,HbSS,8.3,85.0,No,No,Never heard,No,No,No,9-12/yr,Active
+SCD0733,57,M,Nabarangpur,HbSS,8.2,86.9,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0734,31,F,Sundargarh,HbSS,8.6,85.3,No,No,Heard but don't know inherited,No,Yes,Yes,5-8/yr,Active
+SCD0735,64,M,Sivasagar,HbSS,8.2,86.2,No,Yes,Never heard,No,Yes,No,9-12/yr,Active
+SCD0736,66,F,Sundargarh,HbSE,7.9,53.0,No,No,Knows inherited,Yes,No,No,Rarely,Lost to follow-up
+SCD0737,34,F,Tinsukia,HbSS,8.2,86.2,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0738,30,M,Golaghat,HbSS,8.2,85.6,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0739,69,M,Dibrugarh,HbSS,8.3,86.2,Yes,No,Never heard,No,Yes,No,5-8/yr,Active
+SCD0740,41,M,Mayurbhanj,HbSS,8.2,85.7,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0741,65,M,Tinsukia,HbSS,8.4,88.1,Yes,No,Heard but don't know inherited,No,Yes,No,5-8/yr,Active
+SCD0742,52,M,Sivasagar,HbSS,8.3,87.4,No,Yes,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0743,60,F,Dibrugarh,HbSS,8.0,86.6,Yes,Yes,Heard but don't know inherited,No,No,No,0-4/yr,Active
+SCD0744,40,F,Golaghat,HbSS,8.1,84.9,No,No,Knows inherited,Yes,No,Yes,5-8/yr,Active
+SCD0745,39,F,Sundargarh,HbSS,8.2,87.6,Yes,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Lost to follow-up
+SCD0746,32,F,Dibrugarh,HbSE,11.4,51.2,Yes,No,Never heard,No,No,No,Rarely,Active
+SCD0747,43,F,Tinsukia,HbSS,8.0,86.2,No,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0748,45,F,Sivasagar,HbSS,8.4,86.6,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0749,39,M,Koraput,HbSE,7.2,45.5,No,No,Heard but don't know inherited,Yes,No,No,Rarely,Active
+SCD0750,58,F,Sivasagar,HbSS,8.3,86.9,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0751,39,F,Dibrugarh,HbSS,7.9,86.2,Yes,No,Never heard,No,No,Yes,5-8/yr,Lost to follow-up
+SCD0752,41,F,Nabarangpur,HbS-thal,10.2,54.2,No,Yes,Never heard,No,No,No,Rarely,Active
+SCD0753,59,M,Koraput,HbSS,8.5,87.0,No,No,Knows inherited,Yes,No,No,0-4/yr,Active
+SCD0754,30,M,Sivasagar,HbSS,8.2,84.5,Yes,Yes,Heard but don't know inherited,No,Yes,No,5-8/yr,Active
+SCD0755,34,M,Koraput,HbSS,8.2,87.4,No,No,Never heard,No,Yes,No,0-4/yr,Lost to follow-up
+SCD0756,49,F,Kalahandi,HbSS,8.6,87.1,Yes,Yes,Knows inherited,No,Yes,No,9-12/yr,Active
+SCD0757,37,F,Mayurbhanj,HbSS,8.4,86.8,Yes,No,Knows inherited,Yes,No,No,9-12/yr,Active
+SCD0758,41,M,Sivasagar,HbSS,8.2,86.3,Yes,Yes,Heard but don't know inherited,Yes,No,No,0-4/yr,Active
+SCD0759,30,F,Tinsukia,HbSE,12.5,45.3,No,No,Never heard,No,No,No,Rarely,Active
+SCD0760,49,M,Sivasagar,HbSS,8.7,86.1,Yes,Yes,Knows inherited,No,No,Yes,5-8/yr,Active
+SCD0761,57,M,Mayurbhanj,HbSS,8.6,85.0,Yes,Yes,Heard but don't know inherited,No,No,Yes,5-8/yr,Active
+SCD0762,66,M,Dibrugarh,HbSS,8.4,85.7,Yes,No,Knows inherited,Yes,Yes,Yes,5-8/yr,Active
+SCD0763,66,F,Dibrugarh,HbSS,8.0,86.6,Yes,No,Knows inherited,No,No,No,0-4/yr,Active
+SCD0764,41,F,Sivasagar,HbSS,8.5,85.6,No,Yes,Never heard,No,No,No,5-8/yr,Lost to follow-up
+SCD0765,66,M,Jorhat,HbSS,8.0,86.3,Yes,No,Never heard,No,Yes,No,9-12/yr,Active
+SCD0766,57,F,Sundargarh,HbSS,8.3,86.9,No,No,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Lost to follow-up
+SCD0767,44,M,Tinsukia,HbSS,8.5,86.3,No,Yes,Heard but don't know inherited,Yes,No,Yes,5-8/yr,Active
+SCD0768,35,F,Sundargarh,HbSE,12.8,51.1,No,No,Never heard,No,No,No,Rarely,Active
+SCD0769,49,F,Dibrugarh,HbSS,8.2,84.8,Yes,Yes,Knows inherited,No,Yes,No,9-12/yr,Active
+SCD0770,43,F,Mayurbhanj,HbSS,8.3,86.1,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0771,31,M,Kalahandi,HbSS,8.5,86.9,Yes,Yes,Heard but don't know inherited,Yes,Yes,Yes,0-4/yr,Active
+SCD0772,38,F,Kalahandi,HbSS,8.1,86.6,Yes,No,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Active
+SCD0773,66,F,Dibrugarh,HbSS,8.5,87.9,No,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0774,49,M,Kalahandi,HbSS,8.5,87.2,Yes,Yes,Never heard,No,No,Yes,5-8/yr,Active
+SCD0775,55,F,Tinsukia,HbSS,8.3,86.8,No,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0776,58,M,Nabarangpur,HbSS,8.6,85.1,Yes,No,Heard but don't know inherited,No,No,No,5-8/yr,Active
+SCD0777,30,F,Sundargarh,HbSS,8.2,85.6,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0778,64,M,Sivasagar,HbSS,8.4,87.6,Yes,Yes,Never heard,No,No,No,9-12/yr,Active
+SCD0779,35,F,Mayurbhanj,HbSS,8.2,84.0,Yes,No,Never heard,No,Yes,Yes,9-12/yr,Active
+SCD0780,66,M,Dibrugarh,HbSS,8.2,87.3,No,Yes,Never heard,No,Yes,Yes,9-12/yr,Lost to follow-up
+SCD0781,34,M,Tinsukia,HbSS,8.4,86.8,No,No,Heard but don't know inherited,Yes,Yes,No,0-4/yr,Lost to follow-up
+SCD0782,62,M,Kalahandi,HbSS,8.3,85.1,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0783,43,M,Sundargarh,HbSS,8.4,85.6,Yes,No,Never heard,No,No,No,5-8/yr,Active
+SCD0784,41,M,Nabarangpur,HbSS,8.8,87.0,Yes,Yes,Never heard,No,No,No,0-4/yr,Active
+SCD0785,49,M,Jorhat,HbSS,8.2,85.8,Yes,No,Knows inherited,No,Yes,No,5-8/yr,Active
+SCD0786,53,F,Tinsukia,HbSE,9.9,48.8,Yes,No,Heard but don't know inherited,No,No,No,Rarely,Active
+SCD0787,63,M,Tinsukia,HbSS,8.6,86.6,Yes,No,Never heard,No,No,Yes,0-4/yr,Active
+SCD0788,54,M,Tinsukia,HbSS,8.2,88.3,No,Yes,Knows inherited,Yes,No,No,0-4/yr,Active
+SCD0789,58,F,Koraput,HbSS,8.3,87.2,No,No,Heard but don't know inherited,No,Yes,No,0-4/yr,Active
+SCD0790,68,M,Nabarangpur,HbS-thal,9.1,51.8,No,No,Never heard,No,No,No,Rarely,Active
+SCD0791,60,F,Tinsukia,HbSS,8.4,84.5,Yes,Yes,Never heard,No,Yes,No,0-4/yr,Active
+SCD0792,52,F,Sundargarh,HbSS,8.7,87.7,No,No,Heard but don't know inherited,Yes,No,Yes,0-4/yr,Active
+SCD0793,67,F,Mayurbhanj,HbSS,8.2,85.3,No,Yes,Never heard,No,Yes,Yes,0-4/yr,Active
+SCD0794,49,F,Mayurbhanj,HbSS,8.4,86.5,No,No,Knows inherited,Yes,No,Yes,9-12/yr,Lost to follow-up
+SCD0795,52,F,Dibrugarh,HbSS,8.4,86.6,Yes,Yes,Never heard,No,Yes,No,5-8/yr,Active
+SCD0796,45,M,Golaghat,HbSE,10.8,57.2,No,No,Never heard,No,No,No,Rarely,Active
+SCD0797,37,M,Sundargarh,HbS-thal,10.9,44.8,No,No,Never heard,No,No,No,Rarely,Active
+SCD0798,50,M,Dibrugarh,HbSS,8.6,88.0,Yes,Yes,Never heard,No,No,Yes,9-12/yr,Active
+SCD0799,10,F,Koraput,HbSS,9.0,85.3,No,No,Heard but don't know inherited,No,No,Yes,9-12/yr,Active
+SCD0800,16,M,Golaghat,HbSE,10.4,39.6,No,No,Never heard,No,No,No,Rarely,Active
