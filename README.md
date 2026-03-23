@@ -41,7 +41,7 @@ All synthetic variables (age, genotype, symptoms, awareness, treatment, etc.) re
 ![Cascade](![Image](https://github.com/user-attachments/assets/aac3bf02-ba89-4cf6-bc15-5451164740a9))
 
 *Lost to follow‑up list*
-![LTFU](screenshots/ltfu.jpg)
+![LTFU]![Image](https://github.com/user-attachments/assets/49ace526-e8bc-4a34-9435-5a30848a05c3)(screenshots/ltfu.jpg)
 # Repository Structure
 
 - *[generate_synthetic_data.py](generate_synthetic_data.py)** – Creates the synthetic dataset.
